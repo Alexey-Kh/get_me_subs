@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ordinal_word (1.0.0)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  ordinal_word (= 1.0.0)
