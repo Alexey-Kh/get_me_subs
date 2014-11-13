@@ -16,12 +16,12 @@ Current version supports only English.
 
 ## Compilation
 
-The program can be compiled using [Shoes](http://shoesrb.com). Already compiled executable first version for Windows can be downloaded [here](https://drive.google.com/file/d/0B4bk8lTUIGADbmpENEZWdjFWamc/view)(tested on Win 7 and Win XP). All required for work tools (Ruby, Shoes) are included in executable file.
+The program can be compiled using [Shoes](http://shoesrb.com). Already compiled executable first version for Windows can be downloaded [here](https://drive.google.com/file/d/0B4bk8lTUIGADbmpENEZWdjFWamc/view)(tested on Win 7 and Win XP). All required for work tools (Ruby, Shoes) are included in the executable file.
 
 ## How it works:
 
 * you should enter file name, choose save path and click "Download";
-* it analizes the name of the file, which should include name, number of season and episode, e.g. "Constantine.s01e02.HD1080p.WEB-DL.Rus.Eng";
+* program parses the name of the file, which should include name, number of season and episode, e.g. "Constantine.s01e02.HD1080p.WEB-DL.Rus.Eng";
 * wait for the archive with subtitles to be downloaded.
 
 ## Planned future features:
@@ -29,8 +29,8 @@ The program can be compiled using [Shoes](http://shoesrb.com). Already compiled 
 * ~~add simple GUI~~
 * ~~add simple input~~
 * ~~add save address input~~
-* ** Refactor structure **
-* ** Refactor tests **
+* **refactor structure**
+* **refactor tests**
 * add default save address/remind last save address
 * add 'download another subs' option
 * add codec, quality validation / get video info from file
