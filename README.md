@@ -20,7 +20,7 @@ Old version:
 
 ## Image
 
-![GetMeSubs](http://s30.postimg.org/jqvtu1z3l/Get_Me_Subs_v2_0_0.png)
+![GetMeSubs](http://s27.postimg.org/vqxkcxd43/getmesubsv2.png)
 
 ## How it works:
 
